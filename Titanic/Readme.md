@@ -4,10 +4,9 @@ Start here! Predict survival on the Titanic and get familiar with ML basic
 Data Scource for this code is from <a href="https://www.kaggle.com/c/titanic/data"> kaggle 
 
 ## Score
-- 1st trial
-        - 0.40430
-- 2nd trial
-        - 0.73444
+- 1st trial : 0.40430
+- 2nd trial : 0.73444
+- 3rd trial : 0.76794
 
 Data Dictionary 
 -----------------------
