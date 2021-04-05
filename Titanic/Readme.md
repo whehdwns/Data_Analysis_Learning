@@ -42,4 +42,4 @@ embarked    | 	Port of Embarkation                      | 	C = Cherbourg, Q = Qu
 ## Model Score for different types of ML
 
 Based on Different types of machine learning, decision tree classifier has best score
-<img src="image/ML_model_data.png">
+<img src="image/ML_model_data.PNG">
