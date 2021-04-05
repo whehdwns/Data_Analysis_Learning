@@ -7,6 +7,7 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/titanic/dat
 - 1st trial : 0.40430
 - 2nd trial : 0.73444
 - 3rd trial : 0.76794
+- 4th trial : 0.77990 (Top 26%)
 
 Data Dictionary 
 -----------------------
