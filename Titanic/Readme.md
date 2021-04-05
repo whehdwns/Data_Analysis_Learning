@@ -24,7 +24,7 @@ cabin       | 	Cabin number                             |
 embarked    | 	Port of Embarkation                      | 	C = Cherbourg, Q = Queenstown, S = Southampton
 
 
-## Who survived?
+## Summary based on Data
 
 - Female has more survived rate than male
 <img src="image/output_10_1.png">
