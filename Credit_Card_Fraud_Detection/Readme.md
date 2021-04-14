@@ -11,5 +11,4 @@ Data Scource for this code is from <a href="https://www.kaggle.com/mlg-ulb/credi
 ## Normal Transition vs. Fraud Transition based on Time
 <img src="image/normal_fraud_time.PNG">
 
-## Score using DecisionTreeClassifier
-<img src="image/score.PNG">
+
