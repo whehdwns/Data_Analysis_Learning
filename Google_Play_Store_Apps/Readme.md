@@ -8,6 +8,7 @@ Data Scource for this code is from <a href="https://www.kaggle.com/lava18/google
 
 ### Price vs. Rating
 Rating decreases as the app price increase.
+
 <img src="image/Price_rating.PNG">
 
 ### Reviews vs. Rating
@@ -20,6 +21,8 @@ Rating decreases as the app price increase.
 <img src="image/review_wordcloud.PNG">
 
 ### Top 25 Positive Review Frequency
+There are mostly positive words in positive review such as "love", "good", "great", etc.
+
 <img src="image/plot_graph_positive.PNG">
 
 ### Top 25 Neutral Review Frequency
