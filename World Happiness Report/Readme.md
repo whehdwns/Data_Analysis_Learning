@@ -10,7 +10,6 @@ Data Scource for this code is from <a href="https://www.kaggle.com/unsdsn/world-
 - In 2018, Happiest Country is Finland and Saddest Country is Burundi
 - In 2019, Happiest Country is Finland and Saddest Country is South Sudan
 
-Higher GDP, Healthier, More Freedom, Lower the Government corruption leads to Happier country.
 
 ### GDP vs. Happiness
 <img src="image/gdp_happiness.PNG">
@@ -21,5 +20,5 @@ Higher GDP, Healthier, More Freedom, Lower the Government corruption leads to Ha
 ### Freedom to make life choices vs. Happiness
 <img src="image/freedom_happiness.PNG">
 
-### Perceptions of Governemnt corruption(Trust) vs Happiness
+### Perceptions of Government corruption(Trust) vs Happiness
 <img src="image/trust_happiness.PNG">
