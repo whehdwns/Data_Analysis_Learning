@@ -6,6 +6,6 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/walmart-rec
 <img src="Average_weekly_sales.PNG">
 
 ### Summary
-- Walmart Sale price increase dramatically starts from November to December. 
-- Customer comes to Walmart often during high temperature. 
+- Walmart's Sale price increase dramatically starts from November to December. 
+- Customer comes to Walmart often during high temperatures. 
 - Walmart's unemployment rate decreases over the year.
