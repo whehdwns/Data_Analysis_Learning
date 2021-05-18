@@ -9,4 +9,4 @@ Data Scource for this code is from <a href="https://www.kaggle.com/alexanderbade
 <img src="image/Top_10_Billionaires.PNG">
 
 ### Top 20 Billionaires's Country
-<img src="image/Top_20_Billionaires_Country.PNG">
+<img src="image/Top_20_Billionaires_Countries.PNG">
