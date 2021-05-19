@@ -10,3 +10,6 @@ Data Scource for this code is from <a href="https://www.kaggle.com/alexanderbade
 
 ### Top 20 Billionaires's Country
 <img src="image/Top_20_Billionaires_Countries.PNG">
+
+### Billionaires's Education
+<img src="image/forbes_billionaires_Education.PNG">
