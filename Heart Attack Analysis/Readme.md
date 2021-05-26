@@ -6,4 +6,4 @@ Data Scource for this code is from <a href="https://www.kaggle.com/rashikrahmanp
 ### Based on Analyzing Data
   - Higher Blood Pressure, Higher Cholestrol and Higher Heart Rate leads to higher chance of heart attack.
   - Male have more percentage to have heart attack
-  - Age from 50-65 years have the high chance of heart attack.
+  - Age from 40-60 years have the high chance of heart attack.
